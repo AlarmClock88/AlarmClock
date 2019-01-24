@@ -1,9 +1,11 @@
 {
-"Sorec":"24",
-"lowSorec":"45", 
-"image":"", 
-"jiankan":1,
-"state":"USEEEE", 
-"operation":"http://www.qhcftong.com/download.html", 
-"Reis essen":"米を食べる"
-}|
+ "xinmin":"Michael",
+ "keddea":24,
+ "deeraf":45,
+ "jiankan":1,
+ "state":"USEEEE", 
+ "ceshilai":"ceshilaiceshilai",
+ "operation":"http://www.qhcftong.com/download.html",
+ "Konfiguration":"SDS",
+ "Reis essen":"E4432",
+}
