@@ -5,7 +5,7 @@
  "jiankan":1,
  "state":"CN", 
  "ceshilai":"ceshilaiceshilai",
- "operation":"https://www.baidu.com",
+ "needData":"https://www.baidu.com",
  "Konfiguration":"SDS",
  "Reis essen":"E4432",
 }
