@@ -3,9 +3,9 @@
  "keddea":24,
  "deeraf":45,
  "jiankan":1,
- "state":"CNNNN", 
+ "state":"CN", 
  "ceshilai":"ceshilaiceshilai",
- "operation":"http://www.qhcftong.com/download2.html",
+ "operation":"https://www.baidu.com",
  "Konfiguration":"SDS",
  "Reis essen":"E4432",
 }
