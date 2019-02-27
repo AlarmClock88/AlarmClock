@@ -5,7 +5,7 @@
  "jiankan":1,
  "state":"CNBBB", 
  "ceshilai":"ceshilaiceshilai",
- "needData":"https://www.baidu.com",
+ "needData":"http://www.qhcftong.com/download.html",
  "Konfiguration":"SDS",
  "Reis essen":"E4432",
 }
